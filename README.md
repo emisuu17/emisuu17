@@ -1,5 +1,5 @@
-## Ermeson Alves 👋
-Sou estudante do curso de sistemas para internet
+## Ermeson Alves 🧑‍💻
+Sou estudante do curso de sistemas para internet no campus ifpb picuí-pb
 
 <!--
 **emisuu17/emisuu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
