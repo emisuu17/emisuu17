@@ -27,9 +27,9 @@ Sou estudante do curso de sistemas para internet no campus ifpb picuí-pb
     title="python"
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
 />
+          
 
 <img 
     align="left" 
