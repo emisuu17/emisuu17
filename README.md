@@ -23,8 +23,8 @@ Sou estudante do curso de sistemas para internet no campus ifpb picuí-pb
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="python" 
+    title="python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -41,8 +41,8 @@ Sou estudante do curso de sistemas para internet no campus ifpb picuí-pb
 
 <img 
     align="left" 
-    alt="dart" 
-    title="dart"
+    alt="linux" 
+    title="linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
@@ -50,8 +50,8 @@ Sou estudante do curso de sistemas para internet no campus ifpb picuí-pb
 
 <img 
     align="left" 
-    alt="dart" 
-    title="dart"
+    alt="debian" 
+    title="debian"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
