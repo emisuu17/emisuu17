@@ -30,6 +30,16 @@ Sou estudante do curso de sistemas para internet no campus ifpb picuí-pb
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="dart" 
+    title="dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg"
+    />
+          
+
 <!--
 **emisuu17/emisuu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
